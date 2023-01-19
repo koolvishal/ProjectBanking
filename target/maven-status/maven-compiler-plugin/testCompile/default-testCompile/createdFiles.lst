@@ -1,0 +1,6 @@
+com\ProjectBanking\pageobjects\Loginpage.class
+com\ProjectBanking\utilities\Reporting.class
+com\ProjectBanking\testcases\BaseClass.class
+com\ProjectBanking\utilities\XLUtils.class
+com\ProjectBanking\testcases\TC1_LoginTest.class
+com\ProjectBanking\utilities\ReadConfig.class
